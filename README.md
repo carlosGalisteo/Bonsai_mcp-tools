@@ -1,6 +1,6 @@
 # Bonsai_MCP_Tools
 
-This repository includes files with **definitions and code snippets** intended to extend the functionalities of the [Bonsai_MCP_Server](https://github.com/JotaDeRodriguez/Bonsai_mcp), developed by **Juan David Rodríguez**.
+This repository includes files with **definitions and code snippets** intended to extend the functionalities of the [Bonsai_MCP_Server](https://github.com/JotaDeRodriguez/Bonsai_mcp), developed by **Juan David Rodríguez** (JotaDeRodriguez).
 
 ## Description
 The purpose of this repository is to collect **additional tools** that can be integrated into the Bonsai MCP Server, supporting testing and experimentation in **openBIM** and **IFC** workflows.
